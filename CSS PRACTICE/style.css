@@ -1,0 +1,17 @@
+
+nav{
+    background-color: yellow;
+    height: 3vh;
+   
+}
+nav a{
+    margin: 30px;
+    padding: 20px;
+    justify-content: space-between;
+    float:inline-end;
+}
+h2{
+    background-color: gray;
+    width: 5cm;
+    position: center;
+}

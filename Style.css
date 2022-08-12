@@ -1,0 +1,26 @@
+*{
+  margin:0px;
+  padding: 0px;
+  background-color: aquamarine;  
+}
+p{
+    font-size: 20px;
+    font-weight: 800;
+    font-style: italic;
+    text-decoration: underline;
+    }
+#man{
+   font-family: sans-serif;
+   font-weight: lighter;
+   text-transform: uppercase; 
+   text-align: center;
+}
+.tech{
+ color:grean;
+ text-align: right;   
+}
+ol li{
+    text-decoration: dashed;
+    list-style:none;
+    margin: 10px 20px;
+}
